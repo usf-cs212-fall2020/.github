@@ -1,0 +1,5 @@
+{
+  "name": "Project Verification Issue Workflow",
+  "description": "Github action template for responding to verification issues.",
+  "iconName": "clipboard-list-check"
+}
