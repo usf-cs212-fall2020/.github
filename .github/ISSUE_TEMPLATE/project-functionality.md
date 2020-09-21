@@ -6,16 +6,18 @@ labels: verify
 assignees: josecorella
 ---
 
-### Student Information
+## Student Information
 
 Provide this information below so we know which grade to update.
 
 - **Full Name**: [FULL_NAME]
 - **USF Email**: [USERNAME]@dons.usfca.edu
 
+<sub><em>
 :bulb: *Change the `[FULL_NAME]` and `[USERNAME]` fields above to your full name and USF username. Replace the `[` and `]` symbols as well. For example, enter `Sophie Engle` instead of `[Sophie Engle]` for the `[FULL_NAME]` field.*
+</em></sub>
 
-### Eligibility Confirmation
+## Eligibility Confirmation
 
 Edit the checkboxes below to confirm your eligibility:
 
@@ -28,9 +30,11 @@ Edit the checkboxes below to confirm your eligibility:
   - [ ] I verified that the release in the title passes the verification action.
   - [ ] I verified that I am eligible to have this project graded (e.g. not working ahead by more than 1 project).
 
+<sub><em>
 :bulb: *Change `[ ]` to `[x]` to [check a checkbox in Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#task-lists) or save the issue then click the checkbox itself.*
+</em></sub>
 
-### Instructions
+## Instructions
 
 A comment confirming verification of your project release will be added *automatically* once this issue is correctly opened.
 
