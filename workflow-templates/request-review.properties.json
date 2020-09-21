@@ -1,0 +1,5 @@
+{
+  "name": "Project Code Review Request Workflow",
+  "description": "Github action template for requesting a code review.",
+  "iconName": "clipboard-list-check"
+}
