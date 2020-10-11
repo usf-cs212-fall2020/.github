@@ -35,9 +35,10 @@ Enter your expected grade:
 
   - **Expected Grade:** [PERCENT]
 
-  <sub><em>
-  :bulb: *For most students, this is based on the date of the full first code review appointment. If you had your first code review before the deadline, there is no late penalty. Otherwise, there is a 10% penalty per week late up to a 30% maximum. There may be other penalties, which will be indicated on Canvas.*
-  </em></sub>
+<sub><em>
+:bulb: *For most students, this is based on the date of the full first code review appointment. If you had your first code review before the deadline, there is no late penalty. Otherwise, there is a 10% penalty per week late up to a 30% maximum. There may be other penalties, which will be indicated on Canvas.*
+</em></sub>
+
 ## Instructions
 
   - [ ] Fill in the missing information in the issue body. Enter the release number that passed code review in the issue title.
